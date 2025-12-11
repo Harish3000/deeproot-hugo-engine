@@ -1,6 +1,6 @@
 <h1 align="center">Hugo + Tailwind CSS Starter and Boilerplate</h1>
 
-<p align="center">Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
+<p align="center">Deeproot is a free starter template built with Hugo and Tailwind CSS v4.0, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
 
 <p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a></p>
 <p align=center> If you find this project useful, please give it a ⭐ to show your support.</p>
@@ -93,7 +93,7 @@ To start using this template, you need to have some prerequisites installed on y
 
 ### 👉 Project Setup
 
-We built this custom script to make your project setup easier. It will create a new Hugo theme folder and clone the Hugoplate theme into it. Then move the deeprootSite folder into the root directory. So that you can start your Hugo server without going into the deeprootSite folder. Use the following command to setup your project.
+We built this custom script to make your project setup easier. It will create a new Hugo theme folder and clone the Deeproot theme into it. Then move the deeprootSite folder into the root directory. So that you can start your Hugo server without going into the deeprootSite folder. Use the following command to setup your project.
 
 ```bash
 npm run project-setup
@@ -224,7 +224,7 @@ Copyright (c) 2023 - Present, Designed & Developed by [Zeon Studio](https://zeon
 
 ## 🖼️ Showcase
 
-List of some projects people are building with [**Hugoplate**!](https://github.com/zeon-studio/hugoplate/discussions/207)
+List of some projects people are building with [**Deeproot**!](https://github.com/zeon-studio/hugoplate/discussions/207)
 Don't forget to add yours.
 
 ---
