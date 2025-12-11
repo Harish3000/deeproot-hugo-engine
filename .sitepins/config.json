@@ -1,0 +1,19 @@
+{
+  "media": {
+    "root": "deeprootSite/assets/images",
+    "public": "deeprootSite/assets"
+  },
+  "content": {
+    "root": "deeprootSite/content/english"
+  },
+  "code": {
+    "root": "layouts"
+  },
+  "themeConfig": [
+    "deeprootSite/config/_default",
+    "deeprootSite/hugo.toml",
+    "deeprootSite/data"
+  ],
+  "arrangement": [],
+  "showCommitModal": true
+}
