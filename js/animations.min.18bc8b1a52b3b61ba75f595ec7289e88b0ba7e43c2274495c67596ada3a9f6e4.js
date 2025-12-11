@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){if(typeof gsap!="undefined"){gsap.registerPlugin(ScrollTrigger);const e=document.querySelectorAll(".fade-up");e.forEach(e=>{gsap.fromTo(e,{opacity:0,y:50},{opacity:1,y:0,duration:1,scrollTrigger:{trigger:e,start:"top 80%",toggleActions:"play none none reverse"}})}),console.log("DeepRoot GSAP Animations Loaded")}})
