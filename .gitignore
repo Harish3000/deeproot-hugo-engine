@@ -15,3 +15,20 @@ jsconfig.json
 hugo_stats.json
 go.sum
 yarn.lock
+
+
+# ------------------------------------------------
+# DEEPROOT POLYREPO SAFEGUARDS
+# ------------------------------------------------
+# Ignore content copied from Source repo during local dev
+/content/english/blog/*
+/content/english/authors/*
+/content/english/lectures/*
+/data/authors.yml
+
+# Ignore assets copied from Source (except theme assets)
+/assets/images/blog/*
+/assets/images/authors/*
+/assets/images/lectures/*
+
+# ------------------------------------------------

@@ -1,51 +1,52 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Deeproot is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "DeepRoot — Engineering From First Principles"
+  content: "DeepRoot is a technical learning series that goes beyond surface-level coding, focusing on the core principles, architectural thinking, and real-world engineering depth behind modern software systems."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Explore DeepRoot"
+    link: "/blog"
 
 # Features
 features:
-  - title: "What's Included in Deeproot"
+  - title: "What DeepRoot Is About"
     image: "/images/service-1.png"
-    content: "Deeproot is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Deeproot"
+    content: "DeepRoot is a deep technical initiative designed to strengthen software engineering foundations by exploring how and why systems are built the way they are — not just how to use tools."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Deep dives into software engineering fundamentals"
+      - "Architecture-level thinking and design trade-offs"
+      - "Real-world insights from industry-scale systems"
+      - "Focus on reasoning, not memorization"
+      - "Bridging theory with practical engineering decisions"
+      - "**Led by Mr. Krishantha Dinesh — Chief Architect, Brandix Digital**"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: ""
+      link: ""
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Why Deep Technical Understanding Matters"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Modern software engineering demands more than knowing frameworks. DeepRoot helps engineers understand the underlying mechanics that shape performance, scalability, and reliability."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Think beyond frameworks and libraries"
+      - "Understand trade-offs in system design"
+      - "Build intuition for performance, scalability, and maintainability"
+      - "Develop an architect’s mindset early in your career"
     button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      enable: false
+      label: ""
+      link: ""
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "What You Gain From DeepRoot Sessions"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Each DeepRoot session is designed to challenge assumptions, strengthen fundamentals, and help engineers grow from writing code to designing systems."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Clear mental models for complex engineering concepts"
+      - "Exposure to real-world architectural decisions"
+      - "Improved problem-solving and analytical thinking"
+      - "Confidence to reason about systems, not just implement features"
     button:
       enable: false
       label: ""
