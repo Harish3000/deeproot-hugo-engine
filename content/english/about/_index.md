@@ -1,9 +1,15 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
+title: "About DeepRoot"
+meta_title: "About DeepRoot"
+description: "DeepRoot is a technical learning initiative focused on first principles, architectural thinking, and real-world software engineering depth."
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+DeepRoot is a technical learning initiative designed to help aspiring software engineers build strong foundations by understanding software from first principles. Rather than focusing only on tools or frameworks, DeepRoot emphasizes *why* systems are designed the way they are and *how* engineering decisions impact scalability, performance, and maintainability.
+
+The sessions go beyond surface-level explanations and encourage participants to think critically, reason about trade-offs, and develop clear mental models for complex concepts. Each discussion connects theory with real-world engineering practices, helping learners bridge the gap between academic knowledge and industry-scale systems.
+
+DeepRoot is guided by **Mr. Krishantha Dinesh, Chief Architect at Brandix Digital**, whose industry experience brings architectural clarity and practical depth to every session. His approach challenges participants to think like engineers and architects, not just programmers.
+
+At its core, DeepRoot is about cultivating an engineering mindset — one that values understanding over memorization, reasoning over repetition, and long-term growth over short-term solutions.
