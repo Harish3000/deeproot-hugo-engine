@@ -12,33 +12,30 @@ url = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Blogs"
+url = "/blog"
 weight = 3
 
 [[main]]
-weight = 4
-name = "Pages"
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
-
-[[main]]
-parent = "Pages"
 name = "Categories"
 url = "/categories"
+weight = 4
 
-# [[main]]
-# parent = "Pages"
-# name = "404 Page"
-# url = "/404"
+[[main]]
+name = "Authors"
+url = "/authors"
+weight = 5
+
+# Parent Dropdown
+[[main]]
+name = "Pages"
+weight = 6
+
+# Child Item inside Pages
+[[main]]
+parent = "Pages"
+name = "Elements"
+url = "/elements"
 
 
 # footer menu

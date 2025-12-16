@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Explore DeepRoot"
-    link: "/blog"
+    link: "blog"
 
 # Features
 features:
