@@ -62,10 +62,10 @@ content = "<span class='text-center block'>♥️ Loving Deeproot? <a class='und
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["Technology", "Software Engineering"]
+description = "Engineering From First Principles"
+author = "Harish3000"
+twitter = "Harish3000"
 image = "images/og-image.png"
 
 
