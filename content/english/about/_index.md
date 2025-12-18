@@ -2,7 +2,7 @@
 title: "About DeepRoot"
 meta_title: "About DeepRoot"
 description: "DeepRoot is a technical learning initiative focused on first principles, architectural thinking, and real-world software engineering depth."
-image: "/images/avatar.png"
+image: "/images/Krish.png"
 draft: false
 ---
 
